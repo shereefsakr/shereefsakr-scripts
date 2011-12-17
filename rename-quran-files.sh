@@ -139,10 +139,10 @@ declare -a sowarNames=(
 for file in *.mp3 ; do
         # Get file index from file name
         index=${file%.mp3}
-	index=$(expr $index + 1 - 1 )
+	souraindex=$(expr $index + 1 - 1 )
 
         # Change file name
-	newfilename="$index - ${sowarNames[$index-1]}".mp3
+	newfilename="$index - ${sowarNames[$souraindex-1]}".mp3
 	echo $newfilename
         mv $file "$newfilename"
 done
