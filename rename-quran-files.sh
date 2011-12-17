@@ -140,8 +140,6 @@ for file in *.mp3 ; do
         # Get file index from file name
         index=${file%.mp3}
 	index=$(expr $index + 1 - 1 )
-	
-        #title=$(id3tool "$file" | grep -i 'title' | sed s/.*:\\t// )
 
         # Change file name
 	newfilename="$index - ${sowarNames[$index-1]}".mp3
