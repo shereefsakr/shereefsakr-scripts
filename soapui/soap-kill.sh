@@ -1,0 +1,1 @@
+ps -ef | grep soap  | awk '{print $2}' | awk '{printf("%s ", $0)}' | xargs kill -9

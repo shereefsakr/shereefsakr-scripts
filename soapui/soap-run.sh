@@ -1,0 +1,12 @@
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9090 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9091 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9092 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9093 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9094 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9095 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9096 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9097 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9098 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9099 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9100 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
+nohup sh -c '/export/home/admin/FocusCI/SoapUI-5.3/SoapUI-5.3.0/bin/mockservicerunner.sh -p 9101 -m "AIR-Simulation-Mock" "/export/home/admin/FocusCI/SoapUI-5.3/Simulation-AIRMock-soapui-project.xml"' &
